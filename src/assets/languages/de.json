@@ -178,7 +178,9 @@
     "quit": "Aufhören",
     "copyTasks": "Aufgaben kopieren",
     "task": "Aufgabe",
-    "Frecuency": "Häufigkeit"
+    "Frecuency": "Häufigkeit",
+    "print": "PDF / Drucken",
+    "showAll": "Zeige alles"
   },
   "todoDetails": {
     "taskTitle": "Aufgabentitel",
@@ -209,7 +211,8 @@
     "color": "Farbe",
     "close": "Schließen",
     "actions": "Aktionen",
-    "customWeekdays": "Benutzerdefinierte Wochentage"
+    "customWeekdays": "Benutzerdefinierte Wochentage",
+    "daysOfMonth": "Tage des Monats"
   },
   "notifications": {
     "noPendingTasksToday": "Sie haben heute keine geplanten Aufgaben.",
